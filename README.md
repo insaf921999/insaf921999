@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insaf921999
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Web App and network Security 
+- 🌱 I’m currently learning ethical hacking 
 - 💞️ I’m looking to collaborate on DevSecOps.
 - 📫 How to reach me : Linkedin: insaf elinkichari 
 
