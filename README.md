@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @insaf921999
-- 👀 I’m interested in DevSecOps
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning ethical hacking 
-- 💞️ I’m looking to collaborate on DevSecOps.
+- 💞️ I’m looking to collaborate on DevOps.
 - 📫 How to reach me : Linkedin: insaf elinkichari 
 
 <!---
