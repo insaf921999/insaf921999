@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @insaf921999
 - 👀 I’m interested in Cloud Security  
-- 🌱 I’m currently learning ethical hacking 
-- 💞️ I’m looking to collaborate on DevOps.
+- 🌱 I’m currently learning cloud computing on AWS 
+- 💞️ I’m looking to collaborate on DevOps CI/CD.
 - 📫 How to reach me : Linkedin: insaf elinkichari 
 
 <!---
