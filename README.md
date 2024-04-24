@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Insaf
 - 👀 I’m interested in Cloud Security  
-- 💞️ I’m looking to collaborate on DevOps CI/CD.
+- 💞️ I’m looking to collaborate on DevOps CI/CD AWS,Azure.
 
 <!---
 insaf_321/insaf_321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
